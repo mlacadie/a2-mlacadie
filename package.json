@@ -1,0 +1,12 @@
+{
+  "name": "Bucket List",
+  "version": "1.0",
+  "description": "Make a bucket list",
+  "author": "Matthew Lacadie",
+  "scripts": {
+    "start": "node server.improved.js"
+  },
+  "dependencies": {
+    "mime": "^3.0.0"
+  }
+}
